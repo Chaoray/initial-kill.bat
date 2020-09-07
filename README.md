@@ -1,2 +1,3 @@
 # initial-kill.bat
-For killing evoclass
+For killing evoclass, also the nightmare beginning.
+KinWei was ganna crazy.
